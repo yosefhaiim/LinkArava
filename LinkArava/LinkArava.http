@@ -1,0 +1,6 @@
+@LinkArava_HostAddress = http://localhost:5177
+
+GET {{LinkArava_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
